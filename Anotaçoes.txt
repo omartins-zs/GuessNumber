@@ -1,0 +1,6 @@
+Iremos desenvolver três projetos :
+
+Login-Helper (Uma tela com um formulário para login - básico)
+
+
+GuessNumber (Um mini-game onde você precisa adivinhar o número que a máquina está "pensando" - intermediário)
