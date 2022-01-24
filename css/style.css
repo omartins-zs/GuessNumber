@@ -1,0 +1,15 @@
+/* Global */
+
+:root {
+  --white: #fafafa;
+  --blue: #00348a;
+  --blue-light: #0bbbd6;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+  text-decoration: none;
+}
