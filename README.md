@@ -2,10 +2,14 @@
 
 Número de Adivinhação
 
-## 👨‍💻️ Tecnologias 
+## 🚀 Tecnologias
 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Esse projeto foi criado utilizando as tecnologias:
+- HTML
+- CSS
+- JavaScript
+
 
 
 <details>
