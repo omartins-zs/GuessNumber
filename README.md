@@ -1,6 +1,10 @@
 # GuessNumber
 
-Número de Adivinhação
+ <div align="center">
+
+   <cite align="center"><i>`Um mini-game onde você precisa adivinhar o número que a máquina está "pensando"`</i></cite>
+
+</div>
 
 ## 🚀 Tecnologias
 
