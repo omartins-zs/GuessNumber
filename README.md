@@ -1,6 +1,7 @@
 
-<h1 align="center">GuessNumber</h1>
-
+<h1 align="center"><img align="left" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+Guess Number<img align="right" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></h1>
+<br>
  <div align="center">
 
    <cite align="center"><i>`Um mini-game onde você precisa adivinhar o número que a máquina está "pensando"`</i></cite>
