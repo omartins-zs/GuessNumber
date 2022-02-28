@@ -23,3 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 </details>
 
+### Utilitarios
+
+-  Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
