@@ -13,10 +13,11 @@ Guess Number<img align="right" height="40" width="45" src="https://github.com/de
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=blue&style=for-the-badge"/>
 </p>
 
-## Demonstração
 
-
-
+<h1 align="center">
+    <img  src="./gif/GuessNumber.gif" />
+</h1>
+<br>
 
 
 ## 🚀 Tecnologias
