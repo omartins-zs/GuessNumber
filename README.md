@@ -29,19 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 
-
-<details>
-  <summary>Tarefas do Proejto</summary>
-  
- <br>
-  
-- Adicionar link das tencologias
-- adicionar nome do curso
-- Arrumar estrutura de pastas
-
-</details>
-
 ### Utilitarios
 
+-  Curso da Udemy **[HTML5, CSS3 e Javascript na prática (3 Projetos)](https://www.udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/)**
 -  Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 -  Fontes: **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**
