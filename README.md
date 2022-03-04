@@ -44,3 +44,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### Utilitarios
 
 -  Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
+-  Fontes: **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**
