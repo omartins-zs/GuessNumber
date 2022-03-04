@@ -1,26 +1,6 @@
-Iremos desenvolver três projetos :
-
-Login-Helper (Uma tela com um formulário para login - básico)
-
-
 GuessNumber (Um mini-game onde você precisa adivinhar o número que a máquina está "pensando" - intermediário)
 
 
-
-<!-- CSS -->
-    <link rel="stylesheet" href="./css/style.css">
-
-
-    
-    <!-- Icons -->
-    <script src="https://kit.fontawesome.com/cba92a6c1e.js" crossorigin="anonymous" defer></script>
-
-    <!-- JS -->
-    <script src="./js/index.js" defer></script>
-
-
-
-    
 Google Fonts Ubuntu
 
 Regular 300
@@ -28,5 +8,3 @@ Regular 300
 Regular 400 
 
 Regular 600
-
-Estilizando Form, Label, Input e Button
